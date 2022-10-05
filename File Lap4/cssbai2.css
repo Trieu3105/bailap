@@ -1,0 +1,29 @@
+.iphone{
+    width: 25%;
+    float: left;
+    
+}
+.san-pham{
+    border-radius: 10px;
+    box-shadow: 20px 20px 50px grey;
+    padding: 10px  ;
+    margin: 5px;
+    text-align: center;
+}
+.ten{
+    font-size: large;
+    font-variant: small-caps;
+    color: blue;
+}
+.san-pham>img{
+    max-width: 95%;
+}
+.gia{
+    color: red;
+    font-size: larger;
+    font-weight: bold;
+}
+.gia del {
+    color: gray;
+}
+   

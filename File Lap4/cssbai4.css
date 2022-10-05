@@ -1,0 +1,44 @@
+.menu{
+    width: 25%;
+    float:left;
+}
+.iphone14sr{
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px gray;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    position: relative;
+}
+.may1{
+    font-variant:small-caps ;
+    color: orangered;
+}
+.iphone14{
+    max-width: 98%;
+    height: 150px;
+    margin-bottom: 10px;
+}
+.price{
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color: orange;
+}
+.icon{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    width: 25px;
+}
+.new-icon{
+    position:absolute;
+    right: 0px;
+    top: 0px;
+
+}
+del {
+    color: gray;
+}

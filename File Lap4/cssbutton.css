@@ -1,0 +1,25 @@
+                 button{
+                cursor: pointer;
+                font-size: 16px;
+                padding: 10px 35px;
+                color: #ffffff ;
+                border-radius: 5px;
+                background: rgb(55, 148, 148);
+                border: 1px solid #9B6A1D;
+                transition: 0.4s; 
+                margin-left: auto;
+                margin-right: auto;
+                transform: none;
+
+                visibility: hidden;
+                opacity: 0;
+                transition-delay: 0.1s;
+                margin-top: 100px;
+            }
+            button:hover{
+                background:linear-gradient(to right ,rgb(55, 148, 148), rgb(36, 104, 131));    
+                transform: translate(12px, -10%); 
+                visibility: visible;
+                opacity: 100;
+                margin-top: -100px;
+            }
